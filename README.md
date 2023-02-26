@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Coding and Exploring Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python Programming
-- 📫 How to reach me bhupeshrathore932@gmail.com
+- 📫 How to reach me bhupeshrathore932@gmail.com or bsinghrathore32@gmail.com
 
 <!---
 BhupeshRathore07/BhupeshRathore07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
