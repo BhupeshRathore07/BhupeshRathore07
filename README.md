@@ -27,16 +27,15 @@ Welcome to my happy little corner of the internet! As a data scientist, I'm pass
 ### Data Manipulation and Analysis:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=Python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-FC8D62?style=for-the-badge&logo=R&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<!--- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-FC8D62?style=for-the-badge&logo=R&logoColor=white)--->
 
 ---
-
 
 ### Machine Learning and Deep Learning:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
