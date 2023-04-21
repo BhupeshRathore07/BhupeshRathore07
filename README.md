@@ -1,4 +1,4 @@
-# Hello there! I'm Bhupesh Singh Rathore 🌟
+# Hello there! I'm Bhupesh Singh Rathore 🌟 aka CRUIO
 
 Welcome to my happy little corner of the internet! As a data scientist, I'm passionate about exploring data and creating innovative solutions to complex problems. But more than that, I love making connections with people and having a good time! So grab a cup of coffee ☕ and let's chat!
 
