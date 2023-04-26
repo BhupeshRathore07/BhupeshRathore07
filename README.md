@@ -83,8 +83,7 @@ Welcome to my happy little corner of the internet! As a data scientist, I'm pass
 
 
 ## GitHub Stats 📈
-
-![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupeshRathore07&show_icons=true&theme=radical)
+[![GitHub's Streak](https://streak-stats.demolab.com/?user=BhupeshRathore07&theme=dark)](https://git.io/streak-stats)   ![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhupeshRathore07&show_icons=true&theme=dark)
 
 ## Let's Connect! 🤝
 If you're interested in collaborating on a data science project or just want to chat about all things data, I'd love to hear from you! You can reach out to me via email or connect with me on LinkedIn.
