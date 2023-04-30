@@ -4,7 +4,7 @@ Welcome to my happy little corner of the internet! As a data scientist, I'm pass
 
 ## A Little About Me 💻
 
-- 🚀 My ultimate goal is to become the world's **most influential data scientist**, one step at a time!
+- 🚀 My ultimate goal is to become the world's **`MOST INFLUENTIAL DATA SCIENTIST`**, one step at a time!
 - 💫 Presently, I am an aspiring data scientist who is working diligently to make my dreams a reality.
 - 🐍 Python programming and machine learning are my areas of expertise, and I am always eager to learn more.
 - 📊 I possess exceptional skills in data analysis and visualization, utilizing tools such as Pandas and Tableau to unearth insights from complex datasets.
